@@ -21,3 +21,9 @@ function turnOffLight() {
     document.getElementById('myImage').src = "slaescuro.jpg";
     document.getElementById('status').textContent = "Light is off";
 }
+function myFunction() {
+
+  document.getElementById("demo2").innerHTML = "How are you?";
+
+}
+
